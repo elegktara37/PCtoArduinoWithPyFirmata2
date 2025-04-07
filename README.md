@@ -1,5 +1,5 @@
-# Arduino LCD Screen Control with Python GUI
-This project demonstrates how to send message to an LCD connected to an Arduino board using Python's PyFirmata2 library and a very basic graphical user interface (GUI) built with Tkinter (Tk). It allows users to send messages from the PC to the Arduinos LCD.
+# Arduino LCD Screen Messages with Python GUI
+This project demonstrates how to send messages to an LCD connected to an Arduino board using Python's PyFirmata2 library and a very basic graphical user interface (GUI) built with Tkinter (Tk). It allows users to send messages from the PC to the Arduinos LCD.
 
 ## Prerequisites
 
