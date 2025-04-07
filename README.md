@@ -12,7 +12,7 @@ pip install pyfirmata2
 
 #Arduino Controller on PC
 
-![image](https://github.com/user-attachments/assets/88429911-e9eb-454f-9ba6-1c09d5794da6)
+![image](https://github.com/user-attachments/assets/2895d503-734d-4f55-b547-d42a744c1455)
 
 
 #Arduino
