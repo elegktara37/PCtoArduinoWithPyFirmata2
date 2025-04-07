@@ -17,8 +17,8 @@ def displayFirstName():
 def displayLastName():
     board.send_sysex(STRING_DATA, util.str_to_two_byte_iter("Snow"))
 
-ttk.Button(root, text="Display Name", width=20, command=displayFirstName).grid(row=1, column=0, ipadx=10, ipady=10)
-ttk.Button(root, text="Display Team", width=20, command=displayLastName).grid(row=1, column=1, ipadx=10, ipady=10)
+ttk.Button(root, text="Display First Name", width=20, command=displayFirstName).grid(row=1, column=0, ipadx=10, ipady=10)
+ttk.Button(root, text="Display Last Name", width=20, command=displayLastName).grid(row=1, column=1, ipadx=10, ipady=10)
 
 root.mainloop()
 
