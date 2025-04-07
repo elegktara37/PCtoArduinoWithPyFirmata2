@@ -5,7 +5,6 @@ Send data from a pc using Python to display on the Arduino using PyFirmata2 (htt
 #Installing pyFirmata
 pip install pyfirmata2
 
-
 #The Arduino Wiring
 ![Schematic](https://github.com/user-attachments/assets/5678e1b1-c4d0-4689-9f2b-747a4cadaf6e)
 
